@@ -4,7 +4,6 @@ import org.junit.*;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -13,8 +12,6 @@ import pages.CartPage;
 import pages.HomePage;
 import pages.ProductPage;
 import utils.DriverInstance;
-import utils.Waits;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
